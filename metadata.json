@@ -1,0 +1,9 @@
+{
+  "name": "Ascenda - Crescimento Profissional",
+  "description": "Super App de Carreira: Vagas IA, Gestão Financeira, Cursos e Networking. Versão Final Completa.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
